@@ -1,0 +1,19 @@
+state,district,total_bio,total_demo,total_enrol,bio_share,bio_demo_ratio,anomaly_severity
+Chhattisgarh,Rajnandgaon,154498.0,148118.0,4185.0,0.5105,1.0431,0.9384
+Arunachal Pradesh,Kurung Kumey,3390.0,335.0,75.0,0.9101,10.0893,0.8114
+Chhattisgarh,Dantewada,18928.0,2398.0,710.0,0.8876,7.89,0.6598
+Chhattisgarh,Mahasamund,99869.0,134887.0,3361.0,0.4254,0.7404,0.6477
+Nagaland,Phek,8758.0,1468.0,1043.0,0.8564,5.9619,0.6415
+Mizoram,Mamit,10715.0,1809.0,171.0,0.8556,5.9199,0.63
+Mizoram,Mammit,2857.0,636.0,79.0,0.8179,4.4851,0.6202
+Arunachal Pradesh,Upper Subansiri,4166.0,1549.0,143.0,0.729,2.6877,0.5482
+Mizoram,Serchhip,7604.0,2455.0,102.0,0.7559,3.0961,0.5428
+Madhya Pradesh,Hoshangabad,97056.0,12403.0,5982.0,0.8867,7.8246,0.5213
+Maharashtra,Wardha,126459.0,30342.0,1953.0,0.8065,4.1676,0.4213
+Maharashtra,Gadchiroli,140665.0,52698.0,2374.0,0.7275,2.6692,0.3603
+Manipur,Bishnupur,30309.0,42055.0,1117.0,0.4188,0.7207,0.2267
+Andhra Pradesh,Warangal,51758.0,34766.0,1059.0,0.5982,1.4887,0.1504
+Manipur,Thoubal,56043.0,59244.0,1067.0,0.4861,0.946,0.1417
+Chhattisgarh,Balod,81215.0,59734.0,1678.0,0.5762,1.3596,0.1378
+Manipur,Imphal West,61311.0,59350.0,1236.0,0.5081,1.033,0.1173
+Manipur,Imphal East,59274.0,56020.0,1132.0,0.5141,1.0581,0.1067

@@ -1,0 +1,10 @@
+Metric,Value
+Total Records (Raw),"4,938,837"
+Total Records (Clean),"4,347,383"
+Duplicates Removed,"591,454"
+Duplicate Rate (%),11.98
+Missing Values (State),0
+States Standardized,25
+Districts Standardized,42
+Date Range Start,2025-03-01
+Date Range End,2025-12-29
